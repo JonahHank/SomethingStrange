@@ -1,7 +1,7 @@
 # SomethingStrange
 此仓库用于整理之前没有完成的失败品和代码片
 ### 内容
-+ extractZip.js 
++ extractZip.js  
 提供解压、压缩ZIP文件的基础方法  
 ### 关于
 我的CSDN [JonahHank](https://me.csdn.net/qq_39007641)  
