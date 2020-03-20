@@ -1,8 +1,8 @@
-# codehubs
-此仓库用于放置一些个人编写的源代码
+# SomethingStrange
+此仓库用于整理之前没有完成的失败品和代码片
 ### 内容
-+ VBCalendar  
-使用Visual Basic语言重写的日历控件
++ extractZip.js 
+提供解压、压缩ZIP文件的基础方法  
 ### 关于
 我的CSDN [JonahHank](https://me.csdn.net/qq_39007641)  
   
